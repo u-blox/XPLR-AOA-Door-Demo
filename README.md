@@ -25,3 +25,4 @@ further development of the Deliverable (“Contribution”), u-blox will have th
 same rights as granted to you, namely to use, copy, modify and distribute the
 Contribution provided to us for any purpose without fee.
 
+![aoa-demo](https://user-images.githubusercontent.com/11769925/179983908-3b17b372-4849-4a85-838c-391ac317cfbe.png)
