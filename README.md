@@ -4,7 +4,7 @@ Simple demo using two XPLR-AOA Anchors and one Tag to simulate an virtual door o
 
 Works with serial port or UDP broadcast packets.
 
-Compile the solution using Visual Studion 2017 or newer. Configure the application to use anchors connected over USB/UART or UDP.
+Compile the solution using Visual Studio 2017 or newer. Configure the application to use anchors connected over USB/UART or UDP.
 
 ## Disclaimer
 Copyright &copy; u-blox 
