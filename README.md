@@ -1,6 +1,6 @@
 # XPLR-AOA door opener demo
 
-Simple demo using two XPLR-AOA Anchors and one Tag to simulate an virtual door opener. The simulated door will open when the two azimuth angles are within a specic range.
+Simple demo using two u-blox XPLR-AOA Anchors and one Tag to simulate an virtual door opener. The simulated door will open when the two azimuth angles are within a specic range.
 
 Works with serial port or UDP broadcast packets.
 
